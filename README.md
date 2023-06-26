@@ -12,7 +12,7 @@ Key features:
 - [ ] Time limited softbans. (e.g. soft ban a user for 6 months)
 
 Additional features I might implement: (just so I have to use less bots in total)
-- [ ] Role persist with configurable exceptions for new user rules 
+- [ ] Role persist with configurable exceptions for new user rules
 - [ ] Leveling system
 - [ ] Ticket system
 - [ ] Message history (helps mods see what the hell happened)
